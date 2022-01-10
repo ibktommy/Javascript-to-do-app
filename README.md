@@ -9,3 +9,6 @@ cleared when the browser is refreshed. <br><br>
 I have made the delete funtion such that when one deletes a particular task or deletes all task, then such tasks is deleted from the 
 local storage. <br><br>
 I have also added a little bit of CSS transition when deleting a task.
+
+## Overview
+![screenshot](https://github.com/ibktommy/VLV-Relaxation/blob/master/screenshot.png)
